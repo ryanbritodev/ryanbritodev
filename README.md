@@ -4,7 +4,6 @@
 - 📚 Atualmente estudando lógica de programação
 - 💻 Linguagens: Python, Java, JavaScript, HTML
 - 🌱 Aprendendo constantemente e apaixonado por desafios de programação
-- 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
