@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Engenharia de Software na FIAP
 - 📚 Atualmente estudando lógica de programação
-- 💻 Linguagens: Python, Java, JavaScript, HTML
+- 💻 Linguagens: Python, JavaScript, HTML e CSS
 - 🌱 Aprendendo constantemente e apaixonado por desafios de programação
 
 <div style="display: inline_block">
