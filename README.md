@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F66B92&section=header&reversal=false"/>
 
 [![Introdução](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&random=false&width=650&height=45&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🎓 Graduando em Engenharia de Software na FIAP
@@ -36,4 +36,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F66B92&section=footer&reversal=false"/>
