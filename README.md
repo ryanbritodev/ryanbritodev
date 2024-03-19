@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=header&reversal=false"/>
 
-<h1> Olá! Seja bem-vindo a minha página do GitHub 👋 </h1>
+# Olá! Seja bem-vindo a minha página do GitHub 👋
 
 - 🎓 Graduando em Engenharia de Software na FIAP
 - 📚 Atualmente estudando lógica de programação
