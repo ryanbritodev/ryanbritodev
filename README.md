@@ -1,11 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36&section=header&reversal=false"/>
 
-# Olá! Seja bem-vindo a minha página do GitHub 👋
-
+[![Introdução](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&random=false&width=650&height=45&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🎓 Graduando em Engenharia de Software na FIAP
 - 📚 Atualmente estudando lógica de programação
 - 💻 Linguagens: Python, JavaScript, HTML e CSS
 - 🌱 Aprendendo constantemente e apaixonado por desafios de programação
+
+<br>
 
 <div style="display: inline_block">
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,4 +36,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36&section=footer&reversal=false"/>
