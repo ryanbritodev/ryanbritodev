@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F66B92&section=header&reversal=true"/>
 
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/53b257f5daa4ca3fbc2dc84bc61d623b.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+
+<br>
+
 [![Introdução](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&random=false&width=650&height=45&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🎓 Graduando em Engenharia de Software na FIAP
 - 📚 Atualmente estudando lógica de programação
