@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=header&reversal=false"/>
+
 ### Olá! Seja bem-vindo a minha página do GitHub 👋
 
 - 🎓 Graduando em Engenharia de Software na FIAP
@@ -32,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=footer&reversal=false"/>
