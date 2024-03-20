@@ -6,8 +6,6 @@
 - 💻 Linguagens: Python, JavaScript, HTML e CSS
 - 🌱 Aprendendo constantemente e apaixonado por desafios de programação
 
-<br>
-
 <div style="display: inline_block">
   <img align="center" alt="Ryan-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,5 +38,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+<br>
+<br>
+
+<img align="center" alt="Visitantes" height="30" width="100" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev" alt="visitor badge"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=footer&reversal=true"/>
