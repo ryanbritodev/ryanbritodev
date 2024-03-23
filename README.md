@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=header&reversal=true"/>
 
-[![Introdução](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=f66b92&random=false&width=650&height=45&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=F66B92&background=282A36&center=true&vCenter=true&random=false&width=620&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🎓 Graduando em Engenharia de Software na FIAP
 - 📚 Atualmente estudando lógica de programação
 - 💻 Linguagens: Python, JavaScript, HTML e CSS
