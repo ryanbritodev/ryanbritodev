@@ -51,14 +51,21 @@
   </a>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Now playing on Spotify -->
 <p align="center">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ryanbritoramos&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify" />
+  </a>
 </p>
 
 <!-- Visitors Badge -->
 <p align="center">
-  <img alt="Visitantes" height="30" width="100" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev" alt="visitor badge">
+  <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev" alt="visitor badge">
+</p>
+
+<!-- GitHub Snake -->
+<p align="center">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- Footer -->
