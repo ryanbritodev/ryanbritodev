@@ -13,6 +13,7 @@
 <!-- About Me -->
 <p align="center">
   <b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
+  <b>💚 Assistente de Gestão de TI na Leroy Merlin</b><br>
   <b>📚 Atualmente estudando lógica de programação com Python</b><br>
   <b>💻 Linguagens: Python, JavaScript, HTML e CSS</b><br>
   <b>🌱 Aprendendo constantemente e apaixonado por desafios de programação</b>
@@ -63,7 +64,7 @@
   <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev" alt="visitor badge">
 </p>
 
-<!-- GitHub Snake -->
+<!-- Snake Game -->
 <p align="center">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </p>
