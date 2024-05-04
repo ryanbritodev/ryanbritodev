@@ -1,12 +1,9 @@
-<!-- Header -->
+<!-- Header Wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=header&reversal=true"/>
-</p>
-
 <!-- Typing SVG and Introduction -->
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=F66B92&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=F66B92&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,7 +12,7 @@
   <b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
   <b>💚 Assistente de Gestão de TI na Leroy Merlin</b><br>
   <b>📚 Atualmente estudando lógica de programação com Python</b><br>
-  <b>💻 Linguagens: Python, JavaScript, HTML e CSS</b><br>
+  <b>💻 Linguagens que estou utilizando: Python, C++, JavaScript, HTML, CSS</b><br>
   <b>🌱 Aprendendo constantemente e apaixonado por desafios de programação</b>
 </p>
 
@@ -31,12 +28,14 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
+<!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages">
 </p>
 
-<!-- Most Used Languages -->
+<!-- Trophy Gallery -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" alt="Most Used Languages">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryanbritodev&theme=dracula" width="88.5%" alt="GitHub Trophy">
 </p>
 
 <!-- Social Links -->
@@ -70,7 +69,7 @@
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </p>
 
-<!-- Footer -->
+<!-- Footer Wave-->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=footer&reversal=true"/>
 </p>
