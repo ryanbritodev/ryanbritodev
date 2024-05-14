@@ -26,6 +26,11 @@
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </p>
 
+<!-- Random Dev Quote -->
+<p align="center">
+  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula")>
+</p>
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
@@ -61,7 +66,7 @@
 
 <!-- Visitors Badge -->
 <p align="center">
-  <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev" alt="visitor badge">
+  <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev">
 </p>
 
 <!-- Snake Game -->
