@@ -48,6 +48,7 @@
   <a href="https://instagram.com/euryanbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:ryanbritoramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ryanbritodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/5511970656325" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 <!-- Picasion GIF -->
@@ -63,6 +64,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify" />
   </a>
 </p>
+
 
 <!-- Visitors Badge -->
 <p align="center">
