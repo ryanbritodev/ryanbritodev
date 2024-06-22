@@ -60,11 +60,10 @@
 
 <!-- Now playing on Spotify -->
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ryanbritoramos&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ryanbritoramos&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now playing on Spotify">
   </a>
 </p>
-
 
 <!-- Visitors Badge -->
 <p align="center">
