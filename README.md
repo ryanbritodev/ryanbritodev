@@ -9,8 +9,7 @@
 
 <!-- About Me -->
 <p align="center">
-  <b>🎓 Graduando em Engenharia de Software na FIAP</b><br>
-  <b>💚 Assistente de Gestão de TI na Leroy Merlin</b><br>
+  <b>🎓 Estagiário de TI e Graduando em Engenharia de Software na FIAP</b><br>
   <b>📚 Atualmente estudando lógica de programação com Python</b><br>
   <b>💻 Linguagens que estou utilizando: Python, C++, JavaScript, HTML, CSS</b><br>
   <b>🌱 Aprendendo constantemente e apaixonado por desafios de programação</b>
