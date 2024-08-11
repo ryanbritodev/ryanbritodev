@@ -32,14 +32,14 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritdev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
 <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritdev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages">
 </p>
 
 <!-- Trophy Gallery -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryanbritodev&theme=dracula" width="88.5%" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryanbritdev&theme=dracula" width="88.5%" alt="GitHub Trophy">
 </p>
 
 <!-- Social Links -->
