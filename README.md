@@ -10,8 +10,8 @@
 <!-- About Me -->
 <p align="center">
   <b>🎓 Estagiário de TI e Graduando em Engenharia de Software na FIAP</b><br>
-  <b>📚 Atualmente estudando lógica de programação com Python</b><br>
-  <b>💻 Linguagens que estou utilizando: Python, C++, JavaScript, HTML, CSS</b><br>
+  <b>📚 Atualmente estudando React.js e Python</b><br>
+  <b>💻 Linguagens que estou utilizando: Python, HTML & CSS, JavaScript, React.js</b><br>
   <b>🌱 Aprendendo constantemente e apaixonado por desafios de programação</b>
 </p>
 
