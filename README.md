@@ -32,7 +32,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true" width="50%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
 <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages">
 </p>
