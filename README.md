@@ -26,9 +26,9 @@
 </p>
 
 <!-- Random Dev Quote -->
-<p align="center">
-  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula")>
-</p>
+<div align="center">
+  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" style="max-width: 100%; width: 560px;">
+</div>
 
 <!-- GitHub Stats -->
 <p align="center">
