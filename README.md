@@ -36,7 +36,7 @@
 <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages"/>
 <!-- Waka Time -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&show_icons=true&theme=dracula&layout=compact" width="88.5%" alt="Github Wakatime Status"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&show_icons=true&theme=dracula&layout=donut" width="88.5%" alt="Github Wakatime Status"/>
 </p>
 
 <!-- Trophy Gallery -->
