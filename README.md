@@ -11,7 +11,7 @@
 <p align="center">
   <b>🎓 Estagiário de TI e Graduando em Engenharia de Software na FIAP</b><br>
   <b>📚 Atualmente estudando React.js e Python</b><br>
-  <b>💻 Linguagens que estou utilizando: Python, JavaScript, React.js e C++</b><br>
+  <b>💻 Linguagens que estou utilizando: Python, JavaScript, React.js, Tailwind CSS e C++</b><br>
   <b>🌱 Aprendendo constantemente e apaixonado por desafios de programação</b>
 </p>
 
@@ -20,8 +20,10 @@
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="React.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Tailwind CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/m_sharp/200/FFFFFF/github.png" />
 </p>
 
 <!-- Random Dev Quote -->
