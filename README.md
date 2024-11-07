@@ -23,7 +23,7 @@
   <img align="center" alt="Tailwind CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/?size=100&id=16318&format=png&color=F66B92" />
+  <img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF" />
 </p>
 
 <!-- Random Dev Quote -->
