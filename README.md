@@ -32,6 +32,8 @@
  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" style="max-width: 100%; width: 560px;"/> 
 </div>
 
+<br>
+
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats"/>
