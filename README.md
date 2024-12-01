@@ -39,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages"/>
 </p>
 
+<!-- Wakatime -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&layout=compact&theme=dracula" width="88.5%" alt="GitHub Wakatime Stats"/>
+</div>
+
 <!-- Trophy Gallery -->
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryanbritodev&theme=dracula" width="88.5%" alt="GitHub Trophy"/>
