@@ -24,7 +24,7 @@
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF"/>
+  <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Windows 11" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
   <img align="center" alt="Firefox" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" />
 </p>
