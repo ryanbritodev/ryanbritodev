@@ -69,10 +69,14 @@
   </a>
 </p>
 
-<!-- Visitors Badge -->
-<div align="center">
-  <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev"/>
-</div>
+<!-- Visitors/Wakatime/Followers Badges -->
+<p align="center">
+  <img alt="Visitantes" width="150" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev"/>
+  <br>
+  <img alt="Wakatime" width="150" src="https://wakatime.com/badge/user/3a69fd51-98de-4c63-bff2-6883bc6fcdd1.svg"/>
+  <br>
+  <img alt="Followers" width="150" src="https://img.shields.io/github/followers/ryanbritodev?logo=github&style=plastic"/>
+</p>
 
 <!-- Snake Game -->
 <p align="center">
