@@ -31,7 +31,7 @@
 
 <!-- Random Dev Quote -->
 <div align="center">
- <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" style="max-width: 100%; width: 560px;"/> 
+ <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/> 
 </div>
 
 <div align="center">
