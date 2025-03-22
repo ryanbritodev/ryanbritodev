@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6201&section=header&reversal=true"/>
 <!-- Typing SVG and Introduction -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=ff6201&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=faa627&background=36393f&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -53,17 +53,10 @@
   <a href="https://wa.me/5511970656325" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<!-- Picasion GIF -->
-<p align="center">
-  <a href="https://picasion.com/">
-    <img src="https://i.picasion.com/pic92/f6d770a35ad07f12b061c982221d4130.gif" width="300" height="300" border="0" alt="Picasion GIF"/>
-  </a>
-</p>
-
 <!-- Now playing on Spotify -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ryanbritoramos&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now playing on Spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ryanbritoramos&cover_image=true&theme=default&show_offline=false&background_color=36393f&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now playing on Spotify"/>
   </a>
 </p>
 
