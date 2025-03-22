@@ -1,9 +1,9 @@
 <!-- Header Wave -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6201&section=header&reversal=true"/>
 <!-- Typing SVG and Introduction -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=F66B92&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=ff6201&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -31,18 +31,16 @@
 
 <!-- Random Dev Quote -->
 <div align="center">
- <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/> 
+ <img alt="Dev Quote" src="https://github-readme-quotes-bay.vercel.app/quote?theme=slateorange"/> 
 </div>
 
 <div align="center">
 <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=slateorange&hide_border=true" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=dracula" width="38%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="38%" alt="Most Used Languages"/>
 <!-- Wakatime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&layout=compact&theme=dracula" width="88.5%" alt="GitHub Wakatime Stats"/>
-<!-- Trophy Gallery -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanbritodev&theme=dracula" width="88.5%" alt="GitHub Trophy"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="88.5%" alt="GitHub Wakatime Stats"/>
 </div>
 
 <br>
@@ -85,5 +83,5 @@
 
 <!-- Footer Wave-->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6201&section=footer&reversal=true"/>
 </p>
