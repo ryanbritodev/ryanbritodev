@@ -64,7 +64,7 @@
 
 <!-- Visitors/Wakatime/Followers Badges -->
 <p align="center">
-  <img alt="Visitantes" width="150" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev"/>
+  <img alt="Visitantes" width="150" src="https://komarev.com/ghpvc/?username=ryanbritodeve&color=blue"/>
   <br>
   <img alt="Wakatime" width="150" src="https://wakatime.com/badge/user/3a69fd51-98de-4c63-bff2-6883bc6fcdd1.svg"/>
   <br>
