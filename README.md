@@ -35,11 +35,11 @@
 
 <div align="center">
 <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbritodev&show_icons=true&theme=slateorange&hide_border=true" width="50%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=ryanbritodev&show_icons=true&theme=slateorange&hide_border=true" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="38%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="38%" alt="Most Used Languages"/>
 <!-- Wakatime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="88.5%" alt="GitHub Wakatime Stats"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=ryanbritodev&layout=compact&theme=slateorange&hide_border=true" width="88.5%" alt="GitHub Wakatime Stats"/>
 </div>
 
 <br>
